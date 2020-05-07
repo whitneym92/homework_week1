@@ -22,6 +22,8 @@ h1 {
     font-size: 48px;
 }
 
+/* Changes color of SEO in heading*/
+
 .seo {
     background-color: #2a607c;
     color: #d9dcd6;
